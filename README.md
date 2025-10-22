@@ -1,9 +1,10 @@
 # Volunteer_Teaching_Recordings
 
 ## Overview
-This repository features recordings from my volunteer teaching sessions conducted under **iCodeGuru**, focused on empowering underprivileged students through high-quality computer science education.  
-The lectures emphasize **Data Structures and Algorithms (DSA)**, combining conceptual clarity with **LeetCode-style problem-solving** in the students’ local language.  
-Each session was designed to simplify complex algorithmic ideas, making them accessible, practical, and inspiring for learners from all backgrounds.
+Driven by a deep passion for **educational equity and empowerment**, this repository documents my volunteer teaching initiative designed to uplift **underprivileged students** through accessible computer science education.  
+
+As part of **iCodeGuru**, I delivered a complete **Data Structures and Algorithms (DSA)** lecture series, blending conceptual understanding with **LeetCode-style problem-solving**—taught in the students’ **local language** to remove learning barriers.  
+Each session reflects my commitment to making technical education **inclusive, practical, and transformative** for learners with limited access to structured guidance.
 
 ---
 
