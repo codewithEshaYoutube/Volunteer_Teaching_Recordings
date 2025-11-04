@@ -33,6 +33,7 @@ Each session reflects my commitment to making technical education **inclusive, p
 | **Lecture 19** | Linked List | Eesha Tariq | 1 hour | [Watch Recording](https://www.youtube.com/watch?v=CoDaV9xQeNc) |
 | **Lecture 20** | Circular Linked List | Eesha Tariq | 1 hour | [Watch Recording](https://www.youtube.com/live/kYnTFtQBp3w?si=6Inh90adRrFqIYrA) |
 | **Lecture 21** | Advance Linked List | Eesha Tariq | 1 hour | [Watch Recording](https://www.youtube.com/live/N9nNPjohFZM?si=mbHCRU6GJPT3XLQr) |
+| **Lecture 22** | Queue | Eesha Tariq | 1 hour | [Watch Recording](https://www.youtube.com/live/SQI3DWz_tSM?si=pvN7DOHrGOfinhEh) |
 ---
 
 ## Teaching Focus
