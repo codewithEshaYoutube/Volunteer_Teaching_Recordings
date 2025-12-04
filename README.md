@@ -55,7 +55,7 @@ This initiative reflects my commitment to making computer science **inclusive, r
 | 22 | Circular Linked List | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/kYnTFtQBp3w) |
 | 23 | Advanced Linked Lists | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/N9nNPjohFZM) |
 | 24 | Queue – Implementation & Applications | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/SQI3DWz_tSM) |
-| 25 | Sliding Window Basics  | Eesha Tariq | 1 hr | [Watch]([https://www.youtube.com/live/hqjXwKEvDIA?si=vVcYz1Xlxkb9f0eg](https://youtu.be/CmODOS_t7-8?si=L6HQ8LpFM_zykbdr)) |
+| 25 | Sliding Window Basics  | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/4W7m1Vl31pw?si=X9KVKVX1i72a9_Hk) |
 | 26 | Sliding Window Advanced | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/hqjXwKEvDIA?si=vVcYz1Xlxkb9f0eg) |
 | 27 | Bit Manipulation | Eesha Tariq | 1 hr | [Watch](https://youtu.be/EJhK1-QDx3k?si=24aVwhQl7pwZU4qz) |
 
