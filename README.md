@@ -58,6 +58,8 @@ This initiative reflects my commitment to making computer science **inclusive, r
 | 25 | Sliding Window Basics  | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/4W7m1Vl31pw?si=X9KVKVX1i72a9_Hk) |
 | 26 | Sliding Window Advanced | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/hqjXwKEvDIA?si=vVcYz1Xlxkb9f0eg) |
 | 27 | Bit Manipulation | Eesha Tariq | 1 hr | [Watch](https://youtu.be/EJhK1-QDx3k?si=24aVwhQl7pwZU4qz) |
+| 28 | Hashmap - Hashset | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/Gq8EcbOJVus) |
+
 
 
 
