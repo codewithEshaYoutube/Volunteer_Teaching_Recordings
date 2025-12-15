@@ -60,6 +60,7 @@ This initiative reflects my commitment to making computer science **inclusive, r
 | 27 | Bit Manipulation | Eesha Tariq | 1 hr | [Watch](https://youtu.be/EJhK1-QDx3k?si=24aVwhQl7pwZU4qz) |
 | 28 | Hashmap - Hashset | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/Gq8EcbOJVus) |
 
+| 29 | Sorting Algorithm | Eesha Tariq | 1 hr | [Watch](https://studio.youtube.com/video/6JnQzxJMYmA/edit) |
 
 
 
