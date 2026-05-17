@@ -27,7 +27,6 @@ This initiative reflects my commitment to making computer science **inclusive, r
 
 ---
 
-
 ## DSA Lecture Series — Recordings
 
 | Lecture | Topic | Instructor | Duration | Recording Link |
@@ -56,17 +55,22 @@ This initiative reflects my commitment to making computer science **inclusive, r
 | 22 | Circular Linked List | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/kYnTFtQBp3w) |
 | 23 | Advanced Linked Lists | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/N9nNPjohFZM) |
 | 24 | Queue – Implementation & Applications | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/SQI3DWz_tSM) |
-| 25 | Sliding Window Basics  | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/4W7m1Vl31pw?si=X9KVKVX1i72a9_Hk) |
+| 25 | Sliding Window Basics | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/4W7m1Vl31pw?si=X9KVKVX1i72a9_Hk) |
 | 26 | Sliding Window Advanced | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/hqjXwKEvDIA?si=vVcYz1Xlxkb9f0eg) |
 | 27 | Bit Manipulation | Eesha Tariq | 1 hr | [Watch](https://youtu.be/EJhK1-QDx3k?si=24aVwhQl7pwZU4qz) |
 | 28 | Hashmap - Hashset | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/live/Gq8EcbOJVus) |
 | 29 | Sorting Algorithm | Eesha Tariq | 1 hr | [Watch](https://www.youtube.com/watch?v=6JnQzxJMYmA&list=PLe-jr3hh4N_koNNfiYM1sclbsGXTZBBqs&index=2&t=2717s) |
 | 30 | DP + Recursion | Eesha Tariq | 1 hr | [Watch](https://youtube.com/live/x8ib-4c3-9g) |
 
-
-
-
 ---
+
+## AI Workshops and Bootcamp
+
+| # | Recording Link | Topic | Platform |
+|:-:|:----------------|:-------------------------------|:----------|
+| 1 | Workshop 01 | CNN & Graph Neural Network | YouTube |
+| 2 | Workshop 02 | Agentic AI | YouTube |
+| 3 | Workshop 03 | Regression Models & Logistic Regression | YouTube |
 
 ## Teaching Highlights
 
