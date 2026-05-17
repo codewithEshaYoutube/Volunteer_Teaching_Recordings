@@ -67,10 +67,10 @@ This initiative reflects my commitment to making computer science **inclusive, r
 ## AI Workshops and Bootcamp
 
 | # | Recording Link | Topic | Platform |
-|:-:|:----------------|:-------------------------------|:----------|
-| 1 | Workshop 01 | CNN & Graph Neural Network | YouTube |
-| 2 | Workshop 02 | Agentic AI | YouTube |
-| 3 | Workshop 03 | Regression Models & Logistic Regression | YouTube |
+|:-:|:----------------|:-------------------------------------------|:----------|
+| 1 | [Workshop 01](https://www.youtube.com/watch?v=rZ6pfK00rSE&list=PLe-jr3hh4N_nYlC7Y_4jINKAyr_jIytIw&index=2) | Agentic AI Web App | YouTube |
+| 2 | [Workshop 02](https://www.youtube.com/watch?v=FQp-u9Qu3NA&list=PLe-jr3hh4N_nYlC7Y_4jINKAyr_jIytIw&index=6) | CNN & Graph Neural Network (GNN) | YouTube |
+| 3 | [Workshop 03](https://www.youtube.com/watch?v=N88rxSYOasY&list=PLe-jr3hh4N_nYlC7Y_4jINKAyr_jIytIw&index=12) | Regression Models & Logistic Regression | YouTube |
 
 ## Teaching Highlights
 
